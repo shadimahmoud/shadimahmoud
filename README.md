@@ -1,7 +1,7 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
-  Welcome to Yousef Dergham's profile!
+  Welcome to shadi mahmoud profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -12,7 +12,3 @@
 
 - 🏢 I'm a Software Engineer 
 - 👨‍💻 As a BIS student, I'm constantly learning and exploring new technologies to improve my skills.
-
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
